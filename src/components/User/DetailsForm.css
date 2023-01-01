@@ -1,0 +1,10 @@
+.no-border {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+  }
+  
+.no-outline:focus {
+    outline: none;
+}

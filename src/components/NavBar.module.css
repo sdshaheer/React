@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    left:0;
+    right:0
+}
+
+.navbar {
+    min-height: 80px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+    background-color: rgb(239, 240, 247);
+    width:100vw;
+    margin:0px;
+}
